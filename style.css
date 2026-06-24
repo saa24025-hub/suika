@@ -1,0 +1,50 @@
+body {
+    background-color: #e8fff0;
+    color: #333;
+    font-family: "Yu Gothic", sans-serif;
+    text-align: center;
+}
+
+h1 {
+    color: #008000;
+    background-color: #d4ffd4;
+    padding: 15px;
+}
+
+img {
+    border-radius: 10px;
+}
+
+table {
+    margin: auto;
+    border-collapse: collapse;
+    width: 50%;
+}
+
+th {
+    background-color: #90ee90;
+}
+
+th, td {
+    border: 1px solid black;
+    padding: 10px;
+}
+
+ul {
+    display: inline-block;
+    text-align: left;
+}
+
+button {
+    background-color: #28a745;
+    color: white;
+    border: none;
+    padding: 12px 20px;
+    margin: 10px;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+button:hover {
+    opacity: 0.8;
+}
